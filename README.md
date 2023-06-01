@@ -4,6 +4,7 @@ WARNING! Not tested live!
 Restore green side assist led afer update VW instrument cluster to 10XX SW in PQ platform, using Arduino and MCP2515
 
 TODO:
+  - Better brightness maping 
   - Bluetooth icon restore with Discover/Composition media unit (Unknown can messages)
   - Front assist restore with 7N0 radar (maybe)
   - DPF Purge information (maybe)
