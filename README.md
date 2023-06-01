@@ -10,7 +10,6 @@ TODO:
 Based on: https://www.drive2.com/b/601314663967246021/
 
 Default pinout:
-  
   Green LED (+): 9
   Yellow LED (+): 8
   
