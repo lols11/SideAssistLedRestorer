@@ -3,7 +3,7 @@
 #include <spi.h>
 #include <mcp2515.h>
 //#include "LowPower.h" // Low power, not required
-#define SAYellowPin 8
+#define SAYellowPin 6
 #define SAGreenPin 9
 
 struct can_frame canMsg;
