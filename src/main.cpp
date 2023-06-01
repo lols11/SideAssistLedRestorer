@@ -32,14 +32,14 @@ void setup()
   // Celebration
   if (celebration == true)
   {
-    if (manageGreenOnly)
+    if (!manageGreenOnly)
     {
       digitalWrite(SAYellowPin, HIGH);
       delay(500);
       }
     digitalWrite(SAGreenPin, HIGH);
     delay(500);
-    if (manageGreenOnly)
+    if (!manageGreenOnly)
     {
       digitalWrite(SAYellowPin, LOW);
       delay(250);
