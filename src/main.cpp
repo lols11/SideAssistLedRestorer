@@ -1,3 +1,5 @@
+//Based on https://www.drive2.com/b/601314663967246021/
+//Modified by lols11
 #include <spi.h>
 #include <mcp2515.h>
 //#include "LowPower.h" // Low power, not required
