@@ -23,3 +23,5 @@ Must be PWM output for proper operation.
 TODO:
   - Bluetooth icon restore with Discover/Composition media unit (The can messages responsible for the appearance of the icon are currently publicly unknown)
   - Front assist restore with 7N0 radar (as above)
+
+This project is licensed under the MIT License
