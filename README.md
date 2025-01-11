@@ -28,7 +28,7 @@ Restores the green Side Assist LED functionality after updating the VW instrumen
   - Front assist LED restore with 7N0 radar (as above)
 
 ### Looking for additional help
-I am searching for logs from the VW drivetrain CAN bus, in which there is an RNS radio, Bluetooth module, and a colorful MFA or MFA 3D display. I am interested in a log from the moment when a device is connected via Bluetooth. Unfortunately, I have Discover Media in my case, so I am unable to analyze this in terms of the Bluetooth icon. If you have such logs, I would appreciate your contact
+I am looking for logs from the VW Kombi and infotainment CAN bus, specifically involving an RNS radio, Bluetooth module, and a colorful MFA or MFA 3D display. I am particularly interested in logs capturing the moment a device connects via Bluetooth. Unfortunately, I am working with a Discover Media system, so I cannot analyze this in terms of the Bluetooth icon. If you have access to such logs, I would greatly appreciate it if you could get in touch.
 
 
 Licensed under the MIT License. See LICENSE and NOTICE files for details.
